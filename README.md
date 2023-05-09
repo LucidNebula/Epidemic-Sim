@@ -2,7 +2,7 @@
 Unity simulation of an epidemic
 
 This project was made to simulate an epidemic in a small community of approximately 2000 people.
-This was worked on between a partner (Steven Chan) and I for a course, but ended up being more than just
+This was worked on between a partner and I for a course, but ended up being more than just
 a project for class. Rather, it became a bit of a passion project between the two of us as we started having fun
 with the simulation.
 

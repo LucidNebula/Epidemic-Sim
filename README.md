@@ -12,4 +12,3 @@ simulations.
 For a more detailed breakdown of this project, you may check the "Simulation Study.pdf" file included in the zip.
 Alternatively, it has been uploaded as a standalone pdf for viewing.
 
-(I'll edit this later to make it pretty)
